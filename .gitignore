@@ -1,6 +1,7 @@
 data/raw/*
 data/curated/*
 data/*.duckdb
+data/*.wal
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
