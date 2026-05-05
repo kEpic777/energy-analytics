@@ -9,3 +9,5 @@ __pycache__/
 notebooks/data/*.duckdb
 notebooks/data/*.duckdb.wal
 backup_notebooks_data_db/
+
+backup_notebooks_data_db/
