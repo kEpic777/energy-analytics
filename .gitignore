@@ -8,3 +8,4 @@ __pycache__/
 .env
 notebooks/data/*.duckdb
 notebooks/data/*.duckdb.wal
+backup_notebooks_data_db/
